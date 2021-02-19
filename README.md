@@ -23,4 +23,4 @@ Environment variables do not hold sensitive information and are therefore includ
 
 #### Information
 - Author: Andrew Sanchez
-- Date: February 2021)
+- Date: February 2021
