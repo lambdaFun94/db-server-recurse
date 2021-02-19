@@ -18,6 +18,9 @@ Run in development environment with nodemon
 - `npm start` 
 Run in production 
 
+#### Note
+Environment variables do not hold sensitive information and are therefore included in the codebase
+
 #### Information
 - Author: Andrew Sanchez
 - Date: February 2021)
